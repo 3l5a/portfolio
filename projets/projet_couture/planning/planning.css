@@ -1,0 +1,46 @@
+/* Tableau Planning Desktop*/
+
+.planning-table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 782px;
+    height: 400px;
+    font-family: "Home and Work", Helvetica;
+    background-color: #e5d9e9;
+    font-size: 2rem;
+}
+
+.planning-table td {
+    height: 20px;
+    text-align: center;
+}
+
+.table-time {
+    background-color: #fcf3b4;
+}
+
+.planning-table thead td,
+.planning-table .table-time {
+    text-align: center;
+}
+
+.planning-table-couture {
+    background-color: #fffad6;
+}
+
+.planning-table-enfant,
+.planning-table-bebe {
+    background-color: #cfe2f3;
+}
+
+.planning-table-tricot {
+    background-color: #ead1dc;
+}
+
+td:not(.no_border) {
+    border: solid 1px black;
+}
+
+.border_purple {
+    border-top: 1px solid #ead1dc;
+}
