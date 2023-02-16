@@ -51,20 +51,22 @@
                     </div>
                 </div>
 
-                <div class="softwares-title">Programmes & CMS:</div>
+                <div class="softwares-title">Programmes, frameworks & CMS:</div>
                 <div class="softwares">
                     <div class="software"><img src="assets/logo_vscode.svg" alt="HTML">
                         <p>VS Code</p>
                     </div>
+                    <div class="software"><img src="assets/logo_dauphin_sql.svg" alt="SQL">
+                        <p>Workbench</p>
+                    </div>
+                    <div class="software"><img src="assets/logo_laravel.svg" alt="Laravel">
+                        <p>Laravel</p>
+                    </div>
                     <div class="software"><img src="assets/logo_figma_monochrome.svg" alt="CSS">
                         <p>Figma</p>
                     </div>
-                  
                     <div class="software"><img src="assets/logo_wordpress.svg" alt="PHP">
                         <p>Wordpress</p>
-                    </div>
-                    <div class="software"><img src="assets/logo_dauphin_sql.svg" alt="SQL">
-                        <p>Workbench</p>
                     </div>
                 </div>
             </div>
@@ -78,7 +80,7 @@
                             <p class="annee">octobre 2022- mai 2023</p>
                         </div>
                         <p class="etablissement">Greta de Montpellier</p>
-                        <p>Titre professionnel</p>
+                        <p>Titre professionnel | Bac +2</p>
                         <p>Frontend, backend et conception graphique</p>
                     </li>
                     <li>

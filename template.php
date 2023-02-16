@@ -14,21 +14,10 @@
 
 <body>
     <?php
-
-    // if (!$page) {
-    //     $page = "home";
-    // };
-
-    // include "common/header.php";
-    // include "content/$page.php";
-    // include "common/footer.php";
-
-    $page=filter_input(INPUT_GET, 'page');
-
-
+    $page = filter_input(INPUT_GET, 'page');
 
     if (!isset($page)) {
-        $page ="home";
+        $page = "home";
     };
 
     include "common/header.php";
@@ -36,6 +25,7 @@
     switch ($page) {
         case 'home':
             include "content/home.php";
+            break;
         case 'realisations':
             include "content/realisations.php";
             break;
@@ -45,6 +35,12 @@
         case 'cv':
             include "content/cv.php";
             break;
+        case 'bootstrap':
+            include "content/bootstrap.php";
+            break;
+        case 'player':
+            include "content/player.php";
+            break;
         default:
             header('Location: content/404.php');
             die();
@@ -52,7 +48,6 @@
 
     include "common/footer.php";
     ?>
-
 </body>
 <script src="script.js"></script>
 
