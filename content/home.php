@@ -1,9 +1,10 @@
 <main class="main-home">
     <section class="home">
         <div class="intro">
-            <h1>Bienvenue sur mon site</h1>
+            <h1>Bienvenue</h1>
             <p>
                 Développeuse passionnée et enthousiaste, possédant une forte motivation pour apprendre et progresser, cherche à intégrer une entreprise pour mettre en pratique ses compétences et développer ses connaissances</p>
+            <p>Je recherche une alternance C# .NET pour le mois de février 2024</p>
         </div>
 
         <div class="sections home">

@@ -79,8 +79,6 @@
                     <p class="center-text"><b>ATTENTION</b></p>
                     <p><b>Ne pas confondre avec <code>firstChild</code> :</b> <code>firstChild</code> fonctionne presque comme <code>firstElementChild</code>, sauf que <code>firstChild</code> va renvoyer ce qui suit l’élément ciblé dans l’HTML. <code>firstChild</code> va prendre en compte l’indentation, les espaces, les tabulations, etc, situés de l’HTML. Dans ce cas, <code>firstChild</code> renvoie <code>#text</code>. Assez peu utile à priori.</p>
                 </dd>
-
-
             </dl>
         </div>
 

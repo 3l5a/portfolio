@@ -1,7 +1,6 @@
 <main class="main-realisations">
     <section class="realisations">
         <h1>Réalisations</h1>
-
         <div class="sections">
             <a href="projets/audio_player/design2/index.html" class="card-player">
                 <div class="card card-player">Aurora</div>
@@ -30,7 +29,7 @@
             </a>
             <div class="descr card-souris">
                 <p>
-                <h4><a href="https://github.com/Kryyys/projet_couture">Premier projet, à six mains, en HTML et CSS.</a></h4> 
+                <h4><a href="https://github.com/Kryyys/projet_couture">Premier projet, à six mains, en HTML et CSS.</a></h4>
                 Les Petites Souris : un site statique pour une petite association de couture. Un projet 100% débutant.</p>
                 <p>Voir le <a href="https://github.com/Kryyys/projet_couture">GitHub</a></p>
             </div>
